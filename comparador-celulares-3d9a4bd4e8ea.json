@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "comparador-celulares",
+  "private_key_id": "3d9a4bd4e8eac1c75739e301421e69d86b2782eb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDH7LA1X85v8+q0\n2k1e+6Qq3h4eGg/MJhM1YOzjnIsDhKCf8sQ6hmxf3dSIPcEemf+CjSTqSxqUnjEh\nDV2l13HVPRwQ1mWlHIn/i++SjfwBSLCzPeDTLC+DuUgI9W+nxmOAqr9m8nB2tHgc\noY/+2yWddy8DurBjt/XqA3HfrY1KSnpvgU55SqkZ7nAjPSUTW3VrOAk7Y+NohfVk\nmzP2tFCPYZRyJI8uYHxwFallHSRaHq4zXxK/FUKxqdu/YA65TJbci4gYl/4fnXfW\nkXg+h6BB/LKdNpW71CSCfqBrLY7tkviTYocSRTGLEidZp01hF9fG57p0uWei1UU9\niqbuGpIHAgMBAAECggEAFpHwoqtE5vv7zJxd4mc49WNLYHfuE0yzxnGWzMC+K5DW\n1rfVfLXy7i+2RVs+E3JXQinPt75FgJm1+ivux+uL/QLVHvbVVXqPVGY75FOwgNnv\n+OGiIV+k+D376pGqyp9prvuXzXYj9C1o50fmCw46hOMQ+l7NIwoq8lbz4sijtssr\nkqe49NP99Eh6AriIcJaIZipCK51ezcZfY6LGEBm3iBsItUQ1V35G6Ctj6RdxUx08\n+zKTo8hninas8HQzGQuv6+c363t2vuEWC886dtgm1blUgP7kjjrJf/VqNEea8VR/\n+0Dv6kmjFIq5UAibiGkA6iwpt5DAW/9WaF3RLglAQQKBgQD/ybqfLyEBTCxLwWMg\nfSX326G0BjfapWxozL7XmrQlAOld7O5kUZEvOW/7x2CeMmZciBWff2iFCOTig3eG\n15Cf590X4AZX69QEPFV0FIHrbA27qmTdrVRpDygdXzVufdm2RQ8DB79X6lj3vXn4\n61jZD8MwVt07pZ7zh15SNkyXyQKBgQDIFxtPCMHlJyzRXjYVzWAJ1OGopW7YcVrh\npEnTPZsOYfQOR94BrMA5kVw6uYgfvZF4c/ytNEctHPOXCz5DmxkrPYLkwWD+GX8B\nNEeEcD2b/yA0jL6cnStcmGvju2bsIjyyYAKUH2oHpAddpir9+ALb6ZOWxFHo1mxx\npZpmfB1jTwKBgQDxLOLyrrw+/fSSJTBy9K01C3hnRqmpVepm0g5rOen7LeXb8sc/\n/YyX619EFdRqtPjA7Gr+7WG+dglh7jVoBZ7Otw9HMKqqgahxqfWksqVhNYupU9sx\nDPoW6PyY3SmDGdSKQIkMAWUP3t2uEZCM/FLUr0EKNgz47Yt28T8k4x/KyQKBgAQ1\n0EJKeeH7gArrw5GT37h1PUZSLNHrGLF0xoTmX/PehccjJf29B9JuR5WIv9+DGqOB\nNUjjt7ewS0PbXbUId3AcfDuaAhN2r+BznCmiPvmgVaolaAFdoULyhhqln9XKJqLO\nOF+rhYyhm/IRhAgSBuVftdZPTTXsBR4jEOulIu0rAoGAYSr3y/G1NWYTLFzQ20Xb\nfCNL4X2YOyiKvZCbnY7sbLnjiq5EiarEIAFR5djSug5SACrE1AgMserz/UU5uieZ\npQ3AhMjnv9INGnXus8RULkBXMM1w86yIB6XcTgT34wpGc8PZaqIp/Hond1GcKUiy\n7p5xLLn/cULP8WEe4j2YslA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "streamlit-comparador@comparador-celulares.iam.gserviceaccount.com",
+  "client_id": "116745503727528655750",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/streamlit-comparador%40comparador-celulares.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
